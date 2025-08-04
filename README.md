@@ -4,7 +4,7 @@ A full-stack AI-powered photo restoration web app built using **React** for the 
 
 ## DEMO
 
-![BiCycle Demo](https://github.com/HAMMAD-Shahid27/UVOS-Unsupervised-video-object-segmentation/blob/main/BiCycle.gif?raw=tru
+![BiCycle Demo](https://github.com/HAMMAD-Shahid27/AI-Photo-Restoration/blob/main/before_after_grid.png)
 
 ## ⚙️ Tech Stack
 
