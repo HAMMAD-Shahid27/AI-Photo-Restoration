@@ -1,41 +1,38 @@
-# 🖼️ Photo Restoration App
+# 🖼️ AI Photo Restoration App
 
-A full-stack AI-powered photo restoration web app built using **React** for the frontend and **Replicate API** for the backend inference. Enhance, denoise, colorize, and restore damaged old photographs with ease.
+A full-stack AI-powered photo restoration web app built using **React** for the frontend and **Replicate API** for backend inference. Enhance, denoise, colorize, and restore damaged or old photographs — instantly.
 
-## DEMO
+---
+
+## 🎥 Demo
 
 ![Demo](https://github.com/HAMMAD-Shahid27/AI-Photo-Restoration/blob/main/before_after_grid.png)
 
+---
+
 ## ⚙️ Tech Stack
 
-- **Frontend:** React, Tailwind CSS
-- **Backend:** Replicate API (REST-based inference)
-- **AI Models:** Control-Net, Diffusion, Real-ESRGAN.
+- **Frontend:** React, Tailwind CSS  
+- **Backend:** Replicate API (REST-based inference)  
+- **AI Models:** ControlNet · Diffusion · Real-ESRGAN
+
+---
 
 ## ✨ Features
 
-- ✅ Upload and preview old/damaged images
-- ✅ Remove scratches and noise
-- ✅ Face enhancement and detail recovery
-- ✅ Colorization of black & white images
-- ✅ Fast and responsive UI
-- ✅ Download restored images
+- ✅ Upload and preview old/damaged photos  
+- ✅ Remove scratches, noise, and artifacts  
+- ✅ Enhance faces and recover fine details  
+- ✅ Colorize black & white images  
+- ✅ Fast, responsive UI  
+- ✅ One-click download of restored image
+
+---
 
 ## 🔧 Installation
 
-### 1. Clone the repository
+### 1. Clone the Repository
+
+```bash
 git clone https://github.com/HAMMAD-Shahid27/Photo-restoration.git
 cd Photo-restoration
-
-2. Setup frontend
-
-cd frontend
-npm install
-
-3. Set up your .env file
-Create a .env file in the frontend directory:
-
-
-🚀 Usage
-
-npm start
