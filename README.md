@@ -4,13 +4,13 @@ A full-stack AI-powered photo restoration web app built using **React** for the 
 
 ## DEMO
 
-![BiCycle Demo](https://github.com/HAMMAD-Shahid27/AI-Photo-Restoration/blob/main/before_after_grid.png)
+![Demo](https://github.com/HAMMAD-Shahid27/AI-Photo-Restoration/blob/main/before_after_grid.png)
 
 ## ⚙️ Tech Stack
 
-- **Frontend:** React, Tailwind CSS (optional)
+- **Frontend:** React, Tailwind CSS
 - **Backend:** Replicate API (REST-based inference)
-- **AI Models:** CodeFormer, GFPGAN, Real-ESRGAN, etc. *(customize if needed)*
+- **AI Models:** Control-Net, Diffusion, Real-ESRGAN.
 
 ## ✨ Features
 
