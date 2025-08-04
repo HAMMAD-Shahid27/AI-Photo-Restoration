@@ -2,6 +2,10 @@
 
 A full-stack AI-powered photo restoration web app built using **React** for the frontend and **Replicate API** for the backend inference. Enhance, denoise, colorize, and restore damaged old photographs with ease.
 
+## DEMO
+
+![BiCycle Demo](https://github.com/HAMMAD-Shahid27/UVOS-Unsupervised-video-object-segmentation/blob/main/BiCycle.gif?raw=tru
+
 ## ⚙️ Tech Stack
 
 - **Frontend:** React, Tailwind CSS (optional)
